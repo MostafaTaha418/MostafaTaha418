@@ -101,7 +101,7 @@ Flutter • Google Maps API • 3D Modeling • REST APIs
 
 ---
 
-## 🏪 Orderly / Makani
+## 🏪 Orderly
 
 Business & Inventory Management Platform.
 
