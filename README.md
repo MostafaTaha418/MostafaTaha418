@@ -1,85 +1,147 @@
-# Konichiwa 👋
+# Hi there 👋, I'm Mostafa Taha
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img width="700" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
 </div>
 
-</br>
-</br>
-</br>
+---
 
+# 👨‍💻 About Me
 
-# About ME 💬 :
+🎓 Business Information Systems Graduate
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+📱 Flutter Developer passionate about building scalable and high-performance mobile applications.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+🚀 Experienced in developing business management systems, inventory solutions, asset management platforms, and location-based applications.
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+💡 Strong understanding of software architecture, business processes, inventory management, accounting workflows, and mobile UI/UX design.
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+📍 Currently working on a comprehensive Business & Inventory Management Platform (Orderly).
 
-</br>
-</br>
-</br>
+---
 
+# 🛠️ Tech Stack
 
+### Mobile Development
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+* Flutter
+* Dart
+* Android Development
+* Responsive UI Design
+* Material Design
 
-<p align="center">
+### Architecture & State Management
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
+* MVVM Architecture
+* Clean Architecture
+* Bloc
+* Provider
 
+### Backend & Database
 
+* PHP
+* MySQL
+* REST APIs
+* JSON
 
-# Contact Me :
+### Tools & Platforms
 
-<p>
- </br>
+* Git
+* GitHub
+* Android Studio
+* VS Code
+* Postman
 
+### Additional Skills
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+* Google Maps Integration
+* Geolocation Services
+* Push Notifications
+* App Performance Optimization
+* UI/UX Development
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
+---
 
+# 🚀 Featured Projects
 
+## 📦 Asset Management System
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+A complete enterprise asset management solution for companies.
 
-*************
+### Features
+
+* Asset Tracking
+* Department Management
+* Employee Management
+* Maintenance Reporting
+* Role-Based Access Control
+* Authentication System
+
+### Technologies
+
+Flutter • Provider • MVVM • Clean Architecture • PHP • MySQL
+
+---
+
+## 🩸 Baqaa - Blood Donation Platform (Graduation Project)
+
+A mobile platform connecting blood donors with patients in need.
+
+### Features
+
+* Google Maps Integration
+* Real-Time Location Services
+* Interactive User Experience
+* 3D Blood Donation Vehicles
+* Custom Animations
+
+### Technologies
+
+Flutter • Google Maps API • 3D Modeling • REST APIs
+
+---
+
+## 🏪 Orderly / Makani
+
+Business & Inventory Management Platform.
+
+### Features
+
+* Inventory Management
+* Order Management
+* Sales Tracking
+* Supplier Management
+* Accounting Operations
+* Reporting & Analytics
+* Role Management
+
+### Technologies
+
+Flutter • Bloc • Provider • PHP • MySQL • GitHub
+
+---
+
+# 📈 Currently Learning
+
+* Advanced Flutter Performance Optimization
+* Scalable Application Architecture
+* Software Design Patterns
+* Business Management Systems
+
+---
+
+# 📫 Contact Me
+
+📧 Email: [mostafatahadawod@gmail.com](mailto:mostafatahadawod@gmail.com)
+
+💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/mostafa-taha-58a70336b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+🌐 GitHub: https://github.com/MostafaTaha418
+
+---
+
+<div align="center">
+
+### "Building impactful mobile solutions with Flutter."
+
+</div>
